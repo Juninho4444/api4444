@@ -1,0 +1,9 @@
+[2025-06-20 00:52:49] O serviço de scraping (Trabalhador) falhou ou não foi encontrado. Código HTTP: 500
+[2025-06-20 01:10:57] O serviço de scraping (Trabalhador) falhou ou não foi encontrado. Código HTTP: 400
+[2025-06-20 01:11:03] O serviço de scraping (Trabalhador) falhou ou não foi encontrado. Código HTTP: 400
+[2025-06-20 01:11:34] O serviço de scraping (Trabalhador) falhou ou não foi encontrado. Código HTTP: 400
+[2025-06-20 01:13:07] O serviço de scraping (Trabalhador) falhou ao buscar dados do UFC. Código HTTP: 0
+[2025-06-20 01:13:37] Nenhum evento do UFC foi encontrado. A estrutura do site pode ter mudado.
+[2025-06-20 01:20:24] Nenhum evento do UFC foi encontrado. A estrutura do site pode ter mudado.
+[2025-06-20 01:26:04] Nenhum evento do UFC foi encontrado. A estrutura do site pode ter mudado.
+[2025-06-20 01:42:41] Nenhum evento do UFC foi encontrado na seção 'Próximos Eventos'. A estrutura do site pode ter mudado.

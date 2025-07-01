@@ -1,0 +1,11 @@
+{
+    "admin_password_hash": "$2y$12$11f0fAKt1JAYOh8\/XBP.KekPVH1QdRYLrTjAPAUjsOXIsL163bVfq",
+    "allowed_tokens": [
+        "teste"
+    ],
+    "allowed_ips": [
+        "34.0.55.5",
+        "179.106.165.145"
+    ],
+    "allowed_domains": []
+}

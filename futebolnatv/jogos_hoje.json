@@ -1,0 +1,174 @@
+[
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/AtZStk6w0XAg27UKqzugLM7WB2WlM0Vse5KjIIBA.png",
+                "nome": "NOSSO FUTEBOL+"
+            }
+        ],
+        "competicao": "Brasileirão Série C",
+        "data_jogo": "hoje",
+        "destaque": false,
+        "horario": "16:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/countries\/0CgZ9BHAJrFrnpnSqgUG8E66nzb8NhF9oJFmK5mb.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/f409920f306e43c47d38bea92b5ab4ee.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/c0f81f8c04405f45bbc239fe6fb8263a.png",
+        "placar_time1": "2",
+        "placar_time2": "1",
+        "status": "FIM DE JOGO",
+        "time1": "Floresta",
+        "time2": "Brusque"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/1573418008_globo.png",
+                "nome": "GLOBO"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/Hz3KticAh1bRVvblrKfSv0k3xOQn2bYCW8kZojJC.png",
+                "nome": "SPORTV"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/1573477190_dazn.png",
+                "nome": "DAZN"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/19lBo0KozSs2G5KT2ZgJoCCy4AqZFQn01vc6HHvQ.png",
+                "nome": "CAZÉ TV"
+            }
+        ],
+        "competicao": "Mundial de Clubes FIFA",
+        "data_jogo": "hoje",
+        "destaque": false,
+        "horario": "16:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/ligas\/JNRSMx47NrExNJ51jd3m2kB6fgGqAcToFzlICKfK.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/e934ecd3fe3a8be7cb7035b0c52adc14.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/9ef75dd3dddfc3472164bf4093b42932.png",
+        "placar_time1": "0",
+        "placar_time2": "2",
+        "status": "FIM DE JOGO",
+        "time1": "Inter",
+        "time2": "Fluminense"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/bfqEv1Hbro7tPwOUPi0JkXdrgalepBV26b8y6p7b.png",
+                "nome": "DISNEY+ PREMIUM"
+            }
+        ],
+        "competicao": "Brasileirão Série B",
+        "data_jogo": "hoje",
+        "destaque": false,
+        "horario": "19:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/countries\/0CgZ9BHAJrFrnpnSqgUG8E66nzb8NhF9oJFmK5mb.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/a27eb2c833b76893d2fc084364da07fe.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/33abc9ed25737f3bbeaab800cb4b5878.png",
+        "placar_time1": "2",
+        "placar_time2": "1",
+        "status": "FIM DE JOGO",
+        "time1": "Paysandu",
+        "time2": "Ferroviária"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/bfqEv1Hbro7tPwOUPi0JkXdrgalepBV26b8y6p7b.png",
+                "nome": "DISNEY+ PREMIUM"
+            }
+        ],
+        "competicao": "Campeonato Uruguaio",
+        "data_jogo": "hoje",
+        "destaque": false,
+        "horario": "19:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/countries\/ZdxDNN7VK4mDj6lrQTVi5iLRSbXC0TBWmwOROrFp.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/6b6f88bdc1cad057107fdcdbc15debd2.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/74bca2971a6b4292ca3ffefe66a9e131.png",
+        "placar_time1": "2",
+        "placar_time2": "2",
+        "status": "FIM DE JOGO",
+        "time1": "Cerro Largo",
+        "time2": "River Plate URU"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/1573426975_youtube.png",
+                "nome": "YOUTUBE NOSSO FUTEBOL"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/Kxnm3yvJyyOdxMtmAy4ozlG0zTdTY7TfJ7yPQERN.png",
+                "nome": "NOSSO FUTEBOL"
+            }
+        ],
+        "competicao": "Brasileirão Série C",
+        "data_jogo": "hoje",
+        "destaque": false,
+        "horario": "19:30",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/countries\/0CgZ9BHAJrFrnpnSqgUG8E66nzb8NhF9oJFmK5mb.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/416197f7848d7d72f2f8a2951bf4b7a4.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/e9d8e43f60f2b94ca36fb20abd4e6478.png",
+        "placar_time1": "1",
+        "placar_time2": "0",
+        "status": "FIM DE JOGO",
+        "time1": "Itabaiana",
+        "time2": "Botafogo PB"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/i7sbIjLJLzV3uhgPqM4F9wNbeh3LKaHywoUKvLdk.png",
+                "nome": "ESPN"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/9d8oug7pYHKlNmfc5wGnX2c1J6m5xkqqd5tqilbH.png",
+                "nome": "DISNEY+"
+            }
+        ],
+        "competicao": "Brasileirão Série B",
+        "data_jogo": "hoje",
+        "destaque": true,
+        "horario": "21:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/countries\/0CgZ9BHAJrFrnpnSqgUG8E66nzb8NhF9oJFmK5mb.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/a55723bd105796cc7e79a044fa656b96.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/5d5f974074fe43a0436632d49d5adcb7.png",
+        "placar_time1": "0",
+        "placar_time2": "0",
+        "status": "54'",
+        "time1": "Cuiabá",
+        "time2": "Botafogo SP"
+    },
+    {
+        "canais": [
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/1573418008_globo.png",
+                "nome": "GLOBO"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/Hz3KticAh1bRVvblrKfSv0k3xOQn2bYCW8kZojJC.png",
+                "nome": "SPORTV"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/1573477190_dazn.png",
+                "nome": "DAZN"
+            },
+            {
+                "img_url": "https:\/\/www.futebolnatv.com.br\/upload\/channel\/19lBo0KozSs2G5KT2ZgJoCCy4AqZFQn01vc6HHvQ.png",
+                "nome": "CAZÉ TV"
+            }
+        ],
+        "competicao": "Mundial de Clubes FIFA",
+        "data_jogo": "hoje",
+        "destaque": true,
+        "horario": "22:00",
+        "img_competicao_url": "https:\/\/www.futebolnatv.com.br\/upload\/ligas\/JNRSMx47NrExNJ51jd3m2kB6fgGqAcToFzlICKfK.png",
+        "img_time1_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/bf26998e219811716109c201be0d5a36.png",
+        "img_time2_url": "https:\/\/www.futebolnatv.com.br\/upload\/teams\/WYpgF8giva0DgnseCZCgw9kMUb361E8LG0NxPJyK.png",
+        "placar_time1": "1",
+        "placar_time2": "0",
+        "status": "14'",
+        "time1": "Manchester City",
+        "time2": "Al-Hilal"
+    }
+]

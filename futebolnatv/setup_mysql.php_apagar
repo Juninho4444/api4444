@@ -1,0 +1,51 @@
+<?php
+// setup_mysql.php - Execute apenas uma vez!
+
+// --- CONFIGURE SEUS DADOS DO BANCO DE DADOS AQUI ---
+$db_host = 'localhost';
+$db_name = 'gestor_api';
+$db_user = 'gestor_api';
+$db_pass = 'mi2JB8Z2hrRFEDxX'; // A senha que você criou
+// ----------------------------------------------------
+
+try {
+    $db = new PDO("mysql:host=$db_host;dbname=$db_name;charset=utf8mb4", $db_user, $db_pass);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    echo "Conexão com o banco de dados MySQL estabelecida com sucesso.<br>";
+
+    // SQL para criar a tabela com tipos de dados otimizados para MySQL
+    $sql = "
+        CREATE TABLE IF NOT EXISTS `chaves` (
+            `id` INT AUTO_INCREMENT PRIMARY KEY,
+            `token_key` VARCHAR(255) NOT NULL UNIQUE,
+            `owner_name` VARCHAR(255) NOT NULL,
+            `associated_ip` VARCHAR(45) UNIQUE,
+            `status` TINYINT(1) NOT NULL DEFAULT 1, -- 1=Ativo, 0=Inativo
+            `creation_date` DATETIME NOT NULL,
+            `expiration_date` DATETIME NULL
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+    ";
+
+    $db->exec($sql);
+    echo "Tabela 'chaves' criada ou já existente.<br>";
+    
+    // Insere uma chave de exemplo para testes
+    $stmt = $db->prepare("INSERT IGNORE INTO chaves (token_key, owner_name, associated_ip, status, creation_date, expiration_date) VALUES (?, ?, ?, ?, ?, ?)");
+    
+    $token_exemplo = 'token-mysql-exemplo-123';
+    $nome_exemplo = 'Cliente de Teste MySQL';
+    $ip_exemplo = '127.0.0.1';
+    $status_exemplo = 1; // Ativo
+    $data_criacao = date('Y-m-d H:i:s');
+    $data_expiracao = date('Y-m-d H:i:s', strtotime('+1 year'));
+
+    $stmt->execute([$token_exemplo, $nome_exemplo, $ip_exemplo, $status_exemplo, $data_criacao, $data_expiracao]);
+    
+    echo "Chave de exemplo inserida com sucesso (se já não existia).<br>";
+    echo "<b>Token de Exemplo:</b> " . htmlspecialchars($token_exemplo) . "<br>";
+    echo "<b>Setup concluído!</b> Agora você pode apagar este arquivo (`setup_mysql.php`) do seu servidor.";
+
+} catch (PDOException $e) {
+    echo "Erro: " . $e->getMessage();
+}
+?>

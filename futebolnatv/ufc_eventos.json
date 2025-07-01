@@ -1,0 +1,2071 @@
+{
+    "eventos": [
+        {
+            "titulo_evento": "UFC 317",
+            "subtitulo_evento": "Topuria x Oliveira",
+            "link_evento": "https://www.ufc.com.br/event/ufc-317",
+            "data": "29.06",
+            "hora": "02:00",
+            "timestamp_card_principal": "1751162400",
+            "local": {
+                "arena": "T-Mobile Arena",
+                "localidade": "Las Vegas",
+                "pais": "United States"
+            },
+            "luta_principal": {
+                "luta": "Topuria vs Oliveira",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Topuria",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_06-28.png?itok=Zet4xYep"
+                    },
+                    "canto_azul": {
+                        "nome": "Oliveira",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OLIVEIRA_CHARLES_06-28.png?itok=nKdkbDSc"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Topuria vs Oliveira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Topuria",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_06-28.png?itok=Zet4xYep"
+                        },
+                        "canto_azul": {
+                            "nome": "Oliveira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OLIVEIRA_CHARLES_06-28.png?itok=nKdkbDSc"
+                        }
+                    }
+                },
+                {
+                    "luta": "Pantoja vs France",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Pantoja",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=wN7YmSEV"
+                        },
+                        "canto_azul": {
+                            "nome": "France",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KARA-FRANCE_KAI_06-28.png?itok=kzddN5tJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Royval vs Van",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Royval",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=rcIpKCqc"
+                        },
+                        "canto_azul": {
+                            "nome": "Van",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/VAN_JOSHUA_06-28.png?itok=9OXUejE8"
+                        }
+                    }
+                },
+                {
+                    "luta": "Dariush vs Moicano",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Dariush",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DARIUSH_BENEIL_06-28.png?itok=dM6rh4U0"
+                        },
+                        "canto_azul": {
+                            "nome": "Moicano",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MOICANO_RENATO_06-28.png?itok=Rdr8MrYA"
+                        }
+                    }
+                },
+                {
+                    "luta": "Talbott vs Lima",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Talbott",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TALBOTT_PAYTON_06-28.png?itok=ecFOGSk9"
+                        },
+                        "canto_azul": {
+                            "nome": "Lima",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/LIMA_FELIPE_06-28.png?itok=TJmijITx"
+                        }
+                    }
+                },
+                {
+                    "luta": "Topuria vs Oliveira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Topuria",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_06-28.png?itok=Zet4xYep"
+                        },
+                        "canto_azul": {
+                            "nome": "Oliveira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OLIVEIRA_CHARLES_06-28.png?itok=nKdkbDSc"
+                        }
+                    }
+                },
+                {
+                    "luta": "Pantoja vs France",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Pantoja",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=wN7YmSEV"
+                        },
+                        "canto_azul": {
+                            "nome": "France",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KARA-FRANCE_KAI_06-28.png?itok=kzddN5tJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Royval vs Van",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Royval",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=rcIpKCqc"
+                        },
+                        "canto_azul": {
+                            "nome": "Van",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/VAN_JOSHUA_06-28.png?itok=9OXUejE8"
+                        }
+                    }
+                },
+                {
+                    "luta": "Dariush vs Moicano",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Dariush",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DARIUSH_BENEIL_06-28.png?itok=dM6rh4U0"
+                        },
+                        "canto_azul": {
+                            "nome": "Moicano",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MOICANO_RENATO_06-28.png?itok=Rdr8MrYA"
+                        }
+                    }
+                },
+                {
+                    "luta": "Talbott vs Lima",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Talbott",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TALBOTT_PAYTON_06-28.png?itok=ecFOGSk9"
+                        },
+                        "canto_azul": {
+                            "nome": "Lima",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/LIMA_FELIPE_06-28.png?itok=TJmijITx"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": [
+                {
+                    "luta": "Diniz vs Hines",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Diniz",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DINIZ_JHONATA_06-28.png?itok=SQfSTtId"
+                        },
+                        "canto_azul": {
+                            "nome": "Hines",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HINES_ALVIN_06-28.png?itok=miD_wzft"
+                        }
+                    }
+                },
+                {
+                    "luta": "Hermansson vs Rodrigues",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Hermansson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HERMANSSON_JACK_06-28.png?itok=-gq0ZU1Y"
+                        },
+                        "canto_azul": {
+                            "nome": "Rodrigues",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-01/RODRIGUES_GREGORY_01-19.png?itok=B6jn-Gdi"
+                        }
+                    }
+                },
+                {
+                    "luta": "Amil vs Delgado",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Amil",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/AMIL_HYDER_06-28.png?itok=wtNXiBA4"
+                        },
+                        "canto_azul": {
+                            "nome": "Delgado",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DELGADO_JOSE_06-28.png?itok=jHqx9_TJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Araujo vs Cortez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Araujo",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ARAUJO_VIVIANE_06-28.png?itok=h4Oj_QW2"
+                        },
+                        "canto_azul": {
+                            "nome": "Cortez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/CORTEZ_TRACY_06-28.png?itok=hWE9e4bA"
+                        }
+                    }
+                },
+                {
+                    "luta": "McKinney vs Borshchev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "McKinney",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MCKINNEY_TERRANCE_06-28.png?itok=KO9Wv0kO"
+                        },
+                        "canto_azul": {
+                            "nome": "Borshchev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BORSHCHEV_VIACHESLAV_06-28.png?itok=pd3Of_CW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Price vs Smith",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Price",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PRICE_NIKO_06-28.png?itok=y901rg1s"
+                        },
+                        "canto_azul": {
+                            "nome": "Smith",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/SMITH_JACOBE_06-28.png?itok=gvKHwwrw"
+                        }
+                    }
+                },
+                {
+                    "luta": "Diniz vs Hines",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Diniz",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DINIZ_JHONATA_06-28.png?itok=SQfSTtId"
+                        },
+                        "canto_azul": {
+                            "nome": "Hines",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HINES_ALVIN_06-28.png?itok=miD_wzft"
+                        }
+                    }
+                },
+                {
+                    "luta": "Hermansson vs Rodrigues",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Hermansson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HERMANSSON_JACK_06-28.png?itok=-gq0ZU1Y"
+                        },
+                        "canto_azul": {
+                            "nome": "Rodrigues",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-01/RODRIGUES_GREGORY_01-19.png?itok=B6jn-Gdi"
+                        }
+                    }
+                },
+                {
+                    "luta": "Amil vs Delgado",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Amil",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/AMIL_HYDER_06-28.png?itok=wtNXiBA4"
+                        },
+                        "canto_azul": {
+                            "nome": "Delgado",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DELGADO_JOSE_06-28.png?itok=jHqx9_TJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Araujo vs Cortez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Araujo",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ARAUJO_VIVIANE_06-28.png?itok=h4Oj_QW2"
+                        },
+                        "canto_azul": {
+                            "nome": "Cortez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/CORTEZ_TRACY_06-28.png?itok=hWE9e4bA"
+                        }
+                    }
+                },
+                {
+                    "luta": "McKinney vs Borshchev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "McKinney",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MCKINNEY_TERRANCE_06-28.png?itok=KO9Wv0kO"
+                        },
+                        "canto_azul": {
+                            "nome": "Borshchev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BORSHCHEV_VIACHESLAV_06-28.png?itok=pd3Of_CW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Price vs Smith",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Price",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PRICE_NIKO_06-28.png?itok=y901rg1s"
+                        },
+                        "canto_azul": {
+                            "nome": "Smith",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/SMITH_JACOBE_06-28.png?itok=gvKHwwrw"
+                        }
+                    }
+                },
+                {
+                    "luta": "Diniz vs Hines",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Diniz",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/DINIZ_JHONATA_06-28.png?itok=SQfSTtId"
+                        },
+                        "canto_azul": {
+                            "nome": "Hines",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HINES_ALVIN_06-28.png?itok=miD_wzft"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "titulo_evento": "UFC Fight Night",
+            "subtitulo_evento": "Lewis x Teixeira",
+            "link_evento": "https://www.ufc.com.br/event/ufc-fight-night-july-12-2025",
+            "data": "13.07",
+            "hora": "01:00",
+            "timestamp_card_principal": "1752368400",
+            "local": {
+                "arena": "Bridgestone Arena",
+                "localidade": "Nashville",
+                "pais": "United States"
+            },
+            "luta_principal": {
+                "luta": "Lewis vs Teixeira",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Lewis",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/LEWIS_DERRICK_11-02.png?itok=WEagnVvW"
+                    },
+                    "canto_azul": {
+                        "nome": "Teixeira",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/TEIXEIRA_TALLISON_02-08.png?itok=kAh9pCnJ"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Kline vs Martinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Kline",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/10/KLINE_FATIMA_01-11.png?itok=gRBFsjbl"
+                        },
+                        "canto_azul": {
+                            "nome": "Martinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/5/MARTINEZ_MELISSA_09-10.png?itok=UhD1bO-5"
+                        }
+                    }
+                },
+                {
+                    "luta": "Lewis vs Teixeira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Lewis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/LEWIS_DERRICK_11-02.png?itok=WEagnVvW"
+                        },
+                        "canto_azul": {
+                            "nome": "Teixeira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/TEIXEIRA_TALLISON_02-08.png?itok=kAh9pCnJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Thompson vs Bonfim",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Thompson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/THOMPSON_STEPHEN_10-05.png?itok=sjkJ_VAn"
+                        },
+                        "canto_azul": {
+                            "nome": "Bonfim",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-07/BONFIM_GABRIEL_07_25.png?itok=aUP_3Bke"
+                        }
+                    }
+                },
+                {
+                    "luta": "Kattar vs Garcia",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Kattar",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/KATTAR_CALVIN_04-13.png?itok=ltwI4Zrl"
+                        },
+                        "canto_azul": {
+                            "nome": "Garcia",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-09/GARCIA_STEVE_09-07.png?itok=VtY4LkJQ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Landwehr vs Charriere",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Landwehr",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/LANDWEHR_NATE_12-07.png?itok=DZwGdHRs"
+                        },
+                        "canto_azul": {
+                            "nome": "Charriere",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/CHARRIERE_MORGAN_03-22.png?itok=zN_dNSI2"
+                        }
+                    }
+                },
+                {
+                    "luta": "Petrino vs Lane",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Petrino",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/PETRINO_VITOR_12-14.png?itok=oa99KBt1"
+                        },
+                        "canto_azul": {
+                            "nome": "Lane",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/LANE_AUSTEN_03-01.png?itok=kLYOHlkL"
+                        }
+                    }
+                },
+                {
+                    "luta": "Tafa vs Tokkos",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Tafa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/TAFA_JUNIOR_10-12.png?itok=SmH6j4oa"
+                        },
+                        "canto_azul": {
+                            "nome": "Tokkos",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/TOKKOS_TUCO_12-14.png?itok=EVXoMVkN"
+                        }
+                    }
+                },
+                {
+                    "luta": "Griffin vs Curtis",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Griffin",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/GRIFFIN_MAX_12-07.png?itok=yO2vgRD-"
+                        },
+                        "canto_azul": {
+                            "nome": "Curtis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/12/CURTIS_CHRIS_01-11.png?itok=7t17BRiu"
+                        }
+                    }
+                },
+                {
+                    "luta": "Matthews vs Njokuani",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Matthews",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/MATTHEWS_JAKE_02-08.png?itok=OdWmgUm9"
+                        },
+                        "canto_azul": {
+                            "nome": "Njokuani",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-03/NJOKUANI_CHIDI_03-25.png?itok=7JHrNWPd"
+                        }
+                    }
+                },
+                {
+                    "luta": "Murphy vs Moura",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Murphy",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-01/MURPHY_LAUREN_01-19.png?itok=zJ1CArGd"
+                        },
+                        "canto_azul": {
+                            "nome": "Moura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/MOURA_EDUARDA_11-16.png?itok=OXi-aHfh"
+                        }
+                    }
+                },
+                {
+                    "luta": "Nzechukwu vs Walker",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Nzechukwu",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/NZECHUKWU_KENNEDY_04-05.png?itok=PIdi1FGt"
+                        },
+                        "canto_azul": {
+                            "nome": "Walker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/WALKER_VALTER_02-15.png?itok=5A0VHJkx"
+                        }
+                    }
+                },
+                {
+                    "luta": "Ramirez vs Davis",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Ramirez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-03/RAMIREZ_MITCH_03-16.png?itok=ouSGTFCc"
+                        },
+                        "canto_azul": {
+                            "nome": "Davis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/DAVIS_MIKE_02-01.png?itok=ih32RUxv"
+                        }
+                    }
+                },
+                {
+                    "luta": "Kline vs Martinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Kline",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/10/KLINE_FATIMA_01-11.png?itok=gRBFsjbl"
+                        },
+                        "canto_azul": {
+                            "nome": "Martinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/5/MARTINEZ_MELISSA_09-10.png?itok=UhD1bO-5"
+                        }
+                    }
+                },
+                {
+                    "luta": "Lewis vs Teixeira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Lewis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/LEWIS_DERRICK_11-02.png?itok=WEagnVvW"
+                        },
+                        "canto_azul": {
+                            "nome": "Teixeira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/TEIXEIRA_TALLISON_02-08.png?itok=kAh9pCnJ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Thompson vs Bonfim",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Thompson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/THOMPSON_STEPHEN_10-05.png?itok=sjkJ_VAn"
+                        },
+                        "canto_azul": {
+                            "nome": "Bonfim",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-07/BONFIM_GABRIEL_07_25.png?itok=aUP_3Bke"
+                        }
+                    }
+                },
+                {
+                    "luta": "Kattar vs Garcia",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Kattar",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/KATTAR_CALVIN_04-13.png?itok=ltwI4Zrl"
+                        },
+                        "canto_azul": {
+                            "nome": "Garcia",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-09/GARCIA_STEVE_09-07.png?itok=VtY4LkJQ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Landwehr vs Charriere",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Landwehr",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/LANDWEHR_NATE_12-07.png?itok=DZwGdHRs"
+                        },
+                        "canto_azul": {
+                            "nome": "Charriere",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/CHARRIERE_MORGAN_03-22.png?itok=zN_dNSI2"
+                        }
+                    }
+                },
+                {
+                    "luta": "Petrino vs Lane",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Petrino",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/PETRINO_VITOR_12-14.png?itok=oa99KBt1"
+                        },
+                        "canto_azul": {
+                            "nome": "Lane",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/LANE_AUSTEN_03-01.png?itok=kLYOHlkL"
+                        }
+                    }
+                },
+                {
+                    "luta": "Tafa vs Tokkos",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Tafa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/TAFA_JUNIOR_10-12.png?itok=SmH6j4oa"
+                        },
+                        "canto_azul": {
+                            "nome": "Tokkos",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/TOKKOS_TUCO_12-14.png?itok=EVXoMVkN"
+                        }
+                    }
+                },
+                {
+                    "luta": "Griffin vs Curtis",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Griffin",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/GRIFFIN_MAX_12-07.png?itok=yO2vgRD-"
+                        },
+                        "canto_azul": {
+                            "nome": "Curtis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/12/CURTIS_CHRIS_01-11.png?itok=7t17BRiu"
+                        }
+                    }
+                },
+                {
+                    "luta": "Matthews vs Njokuani",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Matthews",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/MATTHEWS_JAKE_02-08.png?itok=OdWmgUm9"
+                        },
+                        "canto_azul": {
+                            "nome": "Njokuani",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-03/NJOKUANI_CHIDI_03-25.png?itok=7JHrNWPd"
+                        }
+                    }
+                },
+                {
+                    "luta": "Murphy vs Moura",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Murphy",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-01/MURPHY_LAUREN_01-19.png?itok=zJ1CArGd"
+                        },
+                        "canto_azul": {
+                            "nome": "Moura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/MOURA_EDUARDA_11-16.png?itok=OXi-aHfh"
+                        }
+                    }
+                },
+                {
+                    "luta": "Nzechukwu vs Walker",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Nzechukwu",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/NZECHUKWU_KENNEDY_04-05.png?itok=PIdi1FGt"
+                        },
+                        "canto_azul": {
+                            "nome": "Walker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/WALKER_VALTER_02-15.png?itok=5A0VHJkx"
+                        }
+                    }
+                },
+                {
+                    "luta": "Ramirez vs Davis",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Ramirez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-03/RAMIREZ_MITCH_03-16.png?itok=ouSGTFCc"
+                        },
+                        "canto_azul": {
+                            "nome": "Davis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/DAVIS_MIKE_02-01.png?itok=ih32RUxv"
+                        }
+                    }
+                },
+                {
+                    "luta": "Kline vs Martinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Kline",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/10/KLINE_FATIMA_01-11.png?itok=gRBFsjbl"
+                        },
+                        "canto_azul": {
+                            "nome": "Martinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/5/MARTINEZ_MELISSA_09-10.png?itok=UhD1bO-5"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC 318",
+            "subtitulo_evento": "Holloway vs Poirier 3",
+            "link_evento": "https://www.ufc.com.br/event/ufc-318",
+            "data": "20.07",
+            "hora": "02:00",
+            "timestamp_card_principal": "1752976800",
+            "local": {
+                "arena": "Smoothie King Center",
+                "localidade": "New Orleans",
+                "pais": "United States"
+            },
+            "luta_principal": null,
+            "card_principal": [
+                {
+                    "luta": "Judice vs Caliari",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Judice",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/JUDICE_CARLI_03-15.png?itok=4psnQEEy"
+                        },
+                        "canto_azul": {
+                            "nome": "Caliari",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/16/CALIARI_NICOLLE_01-11.png?itok=6A02SC_w"
+                        }
+                    }
+                },
+                {
+                    "luta": "Holloway vs Poirier",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Holloway",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-04/HOLLOWAY_MAX_BMFBELT_COMP_04-13.png?itok=LijoDy1A"
+                        },
+                        "canto_azul": {
+                            "nome": "Poirier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/POIRIER_DUSTIN_06-01.png?itok=mb00dKBM"
+                        }
+                    }
+                },
+                {
+                    "luta": "Gautier vs Valentin",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Gautier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAUTIER_ATEBA_03-29.png?itok=BnB7eHWO"
+                        },
+                        "canto_azul": {
+                            "nome": "Valentin",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/VALENTIN_ROBERT_04-05.png?itok=nWUA2pDn"
+                        }
+                    }
+                },
+                {
+                    "luta": "Costa vs Kopylov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Costa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/COSTA_PAULO_06-01.png?itok=FnWinVSt"
+                        },
+                        "canto_azul": {
+                            "nome": "Kopylov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/11/KOPYLOV_ROMAN_01-11.png?itok=mCspocaa"
+                        }
+                    }
+                },
+                {
+                    "luta": "Johnson vs Zellhuber",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Johnson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/JOHNSON_MICHAEL_12-14.png?itok=vMkmMrGQ"
+                        },
+                        "canto_azul": {
+                            "nome": "Zellhuber",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-09/ZELLHUBER_DANIEL_09-14.png?itok=U_Mid9LB"
+                        }
+                    }
+                },
+                {
+                    "luta": "Vettori vs Allen",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Vettori",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/VETTORI_MARVIN_03-15.png?itok=Yf1W5BPm"
+                        },
+                        "canto_azul": {
+                            "nome": "Allen",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALLEN_BRENDAN_02-22.png?itok=kb1ivzOZ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Phillips vs Oliveira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Phillips",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/PHILLIPS_KYLER_10-19.png?itok=x2obZA82"
+                        },
+                        "canto_azul": {
+                            "nome": "Oliveira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/OLIVEIRA_VINICIUS_02-01.png?itok=M27n6NsS"
+                        }
+                    }
+                },
+                {
+                    "luta": "Aliskerov vs Ferreira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Aliskerov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/ALISKEROV_IKRAM_04-26.png?itok=bgWlNU-d"
+                        },
+                        "canto_azul": {
+                            "nome": "Ferreira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/FERREIRA_BRUNNO_03-08.png?itok=YLFEaymH"
+                        }
+                    }
+                },
+                {
+                    "luta": "Magny vs Nelson",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Magny",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/MAGNY_NEIL_11-09.png?itok=tlOdSJ_0"
+                        },
+                        "canto_azul": {
+                            "nome": "Nelson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/NELSON_GUNNAR_03-22.png?itok=pdV10eGK"
+                        }
+                    }
+                },
+                {
+                    "luta": "Crute vs Prachnio",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Crute",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CRUTE_JIMMY_02-08.png?itok=YEwZIr8n"
+                        },
+                        "canto_azul": {
+                            "nome": "Prachnio",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-07/PRACHNIO_MARCIN_07-27.png?itok=F9xnghAG"
+                        }
+                    }
+                },
+                {
+                    "luta": "Fugitt vs Dulatov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Fugitt",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-06/FUGITT_ADAM_06-10.png?itok=MiaSuIuL"
+                        },
+                        "canto_azul": {
+                            "nome": "Dulatov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/DULATOV_ISLAM_10-08.png?itok=d_BO5y7i"
+                        }
+                    }
+                },
+                {
+                    "luta": "Judice vs Caliari",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Judice",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/JUDICE_CARLI_03-15.png?itok=4psnQEEy"
+                        },
+                        "canto_azul": {
+                            "nome": "Caliari",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/16/CALIARI_NICOLLE_01-11.png?itok=6A02SC_w"
+                        }
+                    }
+                },
+                {
+                    "luta": "Holloway vs Poirier",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Holloway",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-04/HOLLOWAY_MAX_BMFBELT_COMP_04-13.png?itok=LijoDy1A"
+                        },
+                        "canto_azul": {
+                            "nome": "Poirier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/POIRIER_DUSTIN_06-01.png?itok=mb00dKBM"
+                        }
+                    }
+                },
+                {
+                    "luta": "Gautier vs Valentin",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Gautier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAUTIER_ATEBA_03-29.png?itok=BnB7eHWO"
+                        },
+                        "canto_azul": {
+                            "nome": "Valentin",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/VALENTIN_ROBERT_04-05.png?itok=nWUA2pDn"
+                        }
+                    }
+                },
+                {
+                    "luta": "Costa vs Kopylov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Costa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/COSTA_PAULO_06-01.png?itok=FnWinVSt"
+                        },
+                        "canto_azul": {
+                            "nome": "Kopylov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/11/KOPYLOV_ROMAN_01-11.png?itok=mCspocaa"
+                        }
+                    }
+                },
+                {
+                    "luta": "Johnson vs Zellhuber",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Johnson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/JOHNSON_MICHAEL_12-14.png?itok=vMkmMrGQ"
+                        },
+                        "canto_azul": {
+                            "nome": "Zellhuber",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-09/ZELLHUBER_DANIEL_09-14.png?itok=U_Mid9LB"
+                        }
+                    }
+                },
+                {
+                    "luta": "Vettori vs Allen",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Vettori",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/VETTORI_MARVIN_03-15.png?itok=Yf1W5BPm"
+                        },
+                        "canto_azul": {
+                            "nome": "Allen",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALLEN_BRENDAN_02-22.png?itok=kb1ivzOZ"
+                        }
+                    }
+                },
+                {
+                    "luta": "Phillips vs Oliveira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Phillips",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/PHILLIPS_KYLER_10-19.png?itok=x2obZA82"
+                        },
+                        "canto_azul": {
+                            "nome": "Oliveira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/OLIVEIRA_VINICIUS_02-01.png?itok=M27n6NsS"
+                        }
+                    }
+                },
+                {
+                    "luta": "Aliskerov vs Ferreira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Aliskerov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/ALISKEROV_IKRAM_04-26.png?itok=bgWlNU-d"
+                        },
+                        "canto_azul": {
+                            "nome": "Ferreira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/FERREIRA_BRUNNO_03-08.png?itok=YLFEaymH"
+                        }
+                    }
+                },
+                {
+                    "luta": "Magny vs Nelson",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Magny",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/MAGNY_NEIL_11-09.png?itok=tlOdSJ_0"
+                        },
+                        "canto_azul": {
+                            "nome": "Nelson",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/NELSON_GUNNAR_03-22.png?itok=pdV10eGK"
+                        }
+                    }
+                },
+                {
+                    "luta": "Crute vs Prachnio",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Crute",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CRUTE_JIMMY_02-08.png?itok=YEwZIr8n"
+                        },
+                        "canto_azul": {
+                            "nome": "Prachnio",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-07/PRACHNIO_MARCIN_07-27.png?itok=F9xnghAG"
+                        }
+                    }
+                },
+                {
+                    "luta": "Fugitt vs Dulatov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Fugitt",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-06/FUGITT_ADAM_06-10.png?itok=MiaSuIuL"
+                        },
+                        "canto_azul": {
+                            "nome": "Dulatov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/DULATOV_ISLAM_10-08.png?itok=d_BO5y7i"
+                        }
+                    }
+                },
+                {
+                    "luta": "Judice vs Caliari",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Judice",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/JUDICE_CARLI_03-15.png?itok=4psnQEEy"
+                        },
+                        "canto_azul": {
+                            "nome": "Caliari",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/16/CALIARI_NICOLLE_01-11.png?itok=6A02SC_w"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC Fight Night",
+            "subtitulo_evento": "Whittaker vs de Ridder",
+            "link_evento": "https://www.ufc.com.br/event/ufc-fight-night-july-26-2025",
+            "data": "26.07",
+            "hora": "19:00",
+            "timestamp_card_principal": "1753556400",
+            "local": {
+                "arena": "Etihad Arena",
+                "localidade": "",
+                "pais": "United Arab Emirates"
+            },
+            "luta_principal": {
+                "luta": "Whittaker vs de Ridder",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Whittaker",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WHITTAKER_ROBERT_10-26.png?itok=qes22X23"
+                    },
+                    "canto_azul": {
+                        "nome": "de Ridder",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DE_RIDDER_REINIER_05-03.png?itok=6Yw_0Kqk"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Aslan vs Elekana",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Aslan",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ASLAN_IBO_02-22.png?itok=oN1Wl3od"
+                        },
+                        "canto_azul": {
+                            "nome": "Elekana",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/4/ELEKANA_BILLY_01-18.png?itok=pEE1XUdU"
+                        }
+                    }
+                },
+                {
+                    "luta": "Whittaker vs de Ridder",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Whittaker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WHITTAKER_ROBERT_10-26.png?itok=qes22X23"
+                        },
+                        "canto_azul": {
+                            "nome": "de Ridder",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DE_RIDDER_REINIER_05-03.png?itok=6Yw_0Kqk"
+                        }
+                    }
+                },
+                {
+                    "luta": "Evloev vs Pico",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Evloev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/EVLOEV_MOVSAR_12-07.png?itok=gJDpDqj-"
+                        },
+                        "canto_azul": {
+                            "nome": "Pico",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2019-04/SILHOUETTE.png?itok=EX2_ev1_"
+                        }
+                    }
+                },
+                {
+                    "luta": "Yan vs McGhee",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Yan",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/YAN_PETR_11-23.png?itok=RlC7jJK8"
+                        },
+                        "canto_azul": {
+                            "nome": "McGhee",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/MCGHEE_MARCUS_11-16.png?itok=Ejzm1YhE"
+                        }
+                    }
+                },
+                {
+                    "luta": "Mitchell vs Nurmagomedov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Mitchell",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MITCHELL_BRYCE_04-12.png?itok=Ip_zdxEY"
+                        },
+                        "canto_azul": {
+                            "nome": "Nurmagomedov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/NURMAGOMEDOV_SAID_02-01.png?itok=90dzgpPT"
+                        }
+                    }
+                },
+                {
+                    "luta": "Magomedov vs Barriault",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Magomedov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/MAGOMEDOV_SHARA_02-01.png?itok=oP0Eyx0H"
+                        },
+                        "canto_azul": {
+                            "nome": "Barriault",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BARRIAULT_MARC-ANDRE_05-10.png?itok=tr1GetQU"
+                        }
+                    }
+                },
+                {
+                    "luta": "Krylov vs Guskov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Krylov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/KRYLOV_NIKITA_04-12.png?itok=_b_yab7J"
+                        },
+                        "canto_azul": {
+                            "nome": "Guskov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/GUSKOV_BOGDAN_01-18.png?itok=P6TIqaXV"
+                        }
+                    }
+                },
+                {
+                    "luta": "Almabayev vs Temirov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Almabayev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALMABAYEV_ASU_03-01.png?itok=B6N0stoN"
+                        },
+                        "canto_azul": {
+                            "nome": "Temirov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/TEMIROV_RAMAZAN_03-01.png?itok=kvV99pNa"
+                        }
+                    }
+                },
+                {
+                    "luta": "Aslan vs Elekana",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Aslan",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ASLAN_IBO_02-22.png?itok=oN1Wl3od"
+                        },
+                        "canto_azul": {
+                            "nome": "Elekana",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/4/ELEKANA_BILLY_01-18.png?itok=pEE1XUdU"
+                        }
+                    }
+                },
+                {
+                    "luta": "Whittaker vs de Ridder",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Whittaker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WHITTAKER_ROBERT_10-26.png?itok=qes22X23"
+                        },
+                        "canto_azul": {
+                            "nome": "de Ridder",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DE_RIDDER_REINIER_05-03.png?itok=6Yw_0Kqk"
+                        }
+                    }
+                },
+                {
+                    "luta": "Evloev vs Pico",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Evloev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/EVLOEV_MOVSAR_12-07.png?itok=gJDpDqj-"
+                        },
+                        "canto_azul": {
+                            "nome": "Pico",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2019-04/SILHOUETTE.png?itok=EX2_ev1_"
+                        }
+                    }
+                },
+                {
+                    "luta": "Yan vs McGhee",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Yan",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/YAN_PETR_11-23.png?itok=RlC7jJK8"
+                        },
+                        "canto_azul": {
+                            "nome": "McGhee",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/MCGHEE_MARCUS_11-16.png?itok=Ejzm1YhE"
+                        }
+                    }
+                },
+                {
+                    "luta": "Mitchell vs Nurmagomedov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Mitchell",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MITCHELL_BRYCE_04-12.png?itok=Ip_zdxEY"
+                        },
+                        "canto_azul": {
+                            "nome": "Nurmagomedov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/NURMAGOMEDOV_SAID_02-01.png?itok=90dzgpPT"
+                        }
+                    }
+                },
+                {
+                    "luta": "Magomedov vs Barriault",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Magomedov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/MAGOMEDOV_SHARA_02-01.png?itok=oP0Eyx0H"
+                        },
+                        "canto_azul": {
+                            "nome": "Barriault",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BARRIAULT_MARC-ANDRE_05-10.png?itok=tr1GetQU"
+                        }
+                    }
+                },
+                {
+                    "luta": "Krylov vs Guskov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Krylov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/KRYLOV_NIKITA_04-12.png?itok=_b_yab7J"
+                        },
+                        "canto_azul": {
+                            "nome": "Guskov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/GUSKOV_BOGDAN_01-18.png?itok=P6TIqaXV"
+                        }
+                    }
+                },
+                {
+                    "luta": "Almabayev vs Temirov",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Almabayev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALMABAYEV_ASU_03-01.png?itok=B6N0stoN"
+                        },
+                        "canto_azul": {
+                            "nome": "Temirov",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/TEMIROV_RAMAZAN_03-01.png?itok=kvV99pNa"
+                        }
+                    }
+                },
+                {
+                    "luta": "Aslan vs Elekana",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Aslan",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ASLAN_IBO_02-22.png?itok=oN1Wl3od"
+                        },
+                        "canto_azul": {
+                            "nome": "Elekana",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/4/ELEKANA_BILLY_01-18.png?itok=pEE1XUdU"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC Fight Night",
+            "subtitulo_evento": "Albazi vs Taira",
+            "link_evento": "https://www.ufc.com.br/event/ufc-fight-night-august-02-2025",
+            "data": "02.08",
+            "hora": "22:00",
+            "timestamp_card_principal": "1754172000",
+            "local": {
+                "arena": "UFC APEX",
+                "localidade": "Las Vegas",
+                "pais": "United States"
+            },
+            "luta_principal": {
+                "luta": "Albazi vs Taira",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Albazi",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=oYhSVmaj"
+                    },
+                    "canto_azul": {
+                        "nome": "Taira",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/TAIRA_TATSURO_10-12.png?itok=QF7V3jik"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Bekoev vs Finney",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Bekoev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BEKOEV_AZAMAT.png?itok=3_cT44lM"
+                        },
+                        "canto_azul": {
+                            "nome": "Finney",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/FINNEY_TORREZ_04-05.png?itok=xaLwy55T"
+                        }
+                    }
+                },
+                {
+                    "luta": "Albazi vs Taira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Albazi",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=oYhSVmaj"
+                        },
+                        "canto_azul": {
+                            "nome": "Taira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/TAIRA_TATSURO_10-12.png?itok=QF7V3jik"
+                        }
+                    }
+                },
+                {
+                    "luta": "Nakamura vs Fletcher",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Nakamura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-08/NAKAMURA_RINYA_08_26.png?itok=pMNtp6P9"
+                        },
+                        "canto_azul": {
+                            "nome": "Fletcher",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/FLETCHER_NATHAN_03-22.png?itok=IHJiShHA"
+                        }
+                    }
+                },
+                {
+                    "luta": "Rosa vs Cornolle",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Rosa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/ROSA_KAROL_01-18.png?itok=hHLFd0x6"
+                        },
+                        "canto_azul": {
+                            "nome": "Cornolle",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CORNOLLE_NORA_04-12.png?itok=yykg0Rv1"
+                        }
+                    }
+                },
+                {
+                    "luta": "Klein vs Pulyaev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Klein",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KLEIN_NICK_02-22.png?itok=CZRUGotR"
+                        },
+                        "canto_azul": {
+                            "nome": "Pulyaev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PULYAEV_ANDREY_03-22.png?itok=pYxBFr32"
+                        }
+                    }
+                },
+                {
+                    "luta": "Vieira vs Gore",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Vieira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/VIEIRA_RODOLFO_02-15.png?itok=2oD-RCu8"
+                        },
+                        "canto_azul": {
+                            "nome": "Gore",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/GORE_TRESEAN_04-12.png?itok=nP_QepDi"
+                        }
+                    }
+                },
+                {
+                    "luta": "Lima vs Bunes",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Lima",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/LIMA_ANDRE_03-15.png?itok=QmN4ap-J"
+                        },
+                        "canto_azul": {
+                            "nome": "Bunes",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/12/BUNES_FELIPE_01-11.png?itok=vu7v9Ian"
+                        }
+                    }
+                },
+                {
+                    "luta": "Rodriguez vs Souza",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Rodriguez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/RODRIGUEZ_PIERA_12-14.png?itok=SD-D0R_o"
+                        },
+                        "canto_azul": {
+                            "nome": "Souza",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/SOUZA_KETLEN_02-15.png?itok=OI-_F1TN"
+                        }
+                    }
+                },
+                {
+                    "luta": "Bekoev vs Finney",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Bekoev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BEKOEV_AZAMAT.png?itok=3_cT44lM"
+                        },
+                        "canto_azul": {
+                            "nome": "Finney",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/FINNEY_TORREZ_04-05.png?itok=xaLwy55T"
+                        }
+                    }
+                },
+                {
+                    "luta": "Albazi vs Taira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Albazi",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALBAZI_AMIR_11-02.png?itok=oYhSVmaj"
+                        },
+                        "canto_azul": {
+                            "nome": "Taira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/TAIRA_TATSURO_10-12.png?itok=QF7V3jik"
+                        }
+                    }
+                },
+                {
+                    "luta": "Nakamura vs Fletcher",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Nakamura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2023-08/NAKAMURA_RINYA_08_26.png?itok=pMNtp6P9"
+                        },
+                        "canto_azul": {
+                            "nome": "Fletcher",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/FLETCHER_NATHAN_03-22.png?itok=IHJiShHA"
+                        }
+                    }
+                },
+                {
+                    "luta": "Rosa vs Cornolle",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Rosa",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/ROSA_KAROL_01-18.png?itok=hHLFd0x6"
+                        },
+                        "canto_azul": {
+                            "nome": "Cornolle",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CORNOLLE_NORA_04-12.png?itok=yykg0Rv1"
+                        }
+                    }
+                },
+                {
+                    "luta": "Klein vs Pulyaev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Klein",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KLEIN_NICK_02-22.png?itok=CZRUGotR"
+                        },
+                        "canto_azul": {
+                            "nome": "Pulyaev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PULYAEV_ANDREY_03-22.png?itok=pYxBFr32"
+                        }
+                    }
+                },
+                {
+                    "luta": "Vieira vs Gore",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Vieira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/VIEIRA_RODOLFO_02-15.png?itok=2oD-RCu8"
+                        },
+                        "canto_azul": {
+                            "nome": "Gore",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/GORE_TRESEAN_04-12.png?itok=nP_QepDi"
+                        }
+                    }
+                },
+                {
+                    "luta": "Lima vs Bunes",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Lima",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/LIMA_ANDRE_03-15.png?itok=QmN4ap-J"
+                        },
+                        "canto_azul": {
+                            "nome": "Bunes",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/12/BUNES_FELIPE_01-11.png?itok=vu7v9Ian"
+                        }
+                    }
+                },
+                {
+                    "luta": "Rodriguez vs Souza",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Rodriguez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/RODRIGUEZ_PIERA_12-14.png?itok=SD-D0R_o"
+                        },
+                        "canto_azul": {
+                            "nome": "Souza",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/SOUZA_KETLEN_02-15.png?itok=OI-_F1TN"
+                        }
+                    }
+                },
+                {
+                    "luta": "Bekoev vs Finney",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Bekoev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BEKOEV_AZAMAT.png?itok=3_cT44lM"
+                        },
+                        "canto_azul": {
+                            "nome": "Finney",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/FINNEY_TORREZ_04-05.png?itok=xaLwy55T"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC Fight Night",
+            "subtitulo_evento": "Dolidze vs Hernandez",
+            "link_evento": "https://www.ufc.com.br/event/ufc-fight-night-august-09-2025",
+            "data": "10.08",
+            "hora": "01:00",
+            "timestamp_card_principal": "1754787600",
+            "local": {
+                "arena": "UFC APEX",
+                "localidade": "Las Vegas",
+                "pais": "United States"
+            },
+            "luta_principal": {
+                "luta": "Dolidze vs Hernandez",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Dolidze",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/DOLIDZE_ROMAN_03-15.png?itok=GosoFO1-"
+                    },
+                    "canto_azul": {
+                        "nome": "Hernandez",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/HERNANDEZ_ANTHONY_02-22.png?itok=efJafNXB"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Fernandes vs Stoliarenko",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Fernandes",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/FERNANDES_GABRIELLA_11-23.png?itok=EyiFdVBK"
+                        },
+                        "canto_azul": {
+                            "nome": "Stoliarenko",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/STOLIARENKO_JULIJA_02-03.png?itok=eHCxFBvc"
+                        }
+                    }
+                },
+                {
+                    "luta": "Dolidze vs Hernandez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Dolidze",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/DOLIDZE_ROMAN_03-15.png?itok=GosoFO1-"
+                        },
+                        "canto_azul": {
+                            "nome": "Hernandez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/HERNANDEZ_ANTHONY_02-22.png?itok=efJafNXB"
+                        }
+                    }
+                },
+                {
+                    "luta": "Perez vs Erceg",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Perez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/PEREZ_ALEX_06-15.png?itok=pUnG_s3l"
+                        },
+                        "canto_azul": {
+                            "nome": "Erceg",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ERCEG_STEVE_03-29.png?itok=hu83tvMW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Smith vs Kazama",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Smith",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/SMITH_ELIJAH_02-15.png?itok=C6RwRAuf"
+                        },
+                        "canto_azul": {
+                            "nome": "Kazama",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-08/KAZAMA_TOSHIOMI_08-10.png?itok=aoMNzlbm"
+                        }
+                    }
+                },
+                {
+                    "luta": "Johns vs Matsumoto",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Johns",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/JOHNS_MILES_12-14.png?itok=XF3-CgYW"
+                        },
+                        "canto_azul": {
+                            "nome": "Matsumoto",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/MATSUMOTO_JEAN_02-22.png?itok=Rc2axy0j"
+                        }
+                    }
+                },
+                {
+                    "luta": "Fernandes vs Stoliarenko",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Fernandes",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/FERNANDES_GABRIELLA_11-23.png?itok=EyiFdVBK"
+                        },
+                        "canto_azul": {
+                            "nome": "Stoliarenko",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/STOLIARENKO_JULIJA_02-03.png?itok=eHCxFBvc"
+                        }
+                    }
+                },
+                {
+                    "luta": "Dolidze vs Hernandez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Dolidze",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/DOLIDZE_ROMAN_03-15.png?itok=GosoFO1-"
+                        },
+                        "canto_azul": {
+                            "nome": "Hernandez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/HERNANDEZ_ANTHONY_02-22.png?itok=efJafNXB"
+                        }
+                    }
+                },
+                {
+                    "luta": "Perez vs Erceg",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Perez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/PEREZ_ALEX_06-15.png?itok=pUnG_s3l"
+                        },
+                        "canto_azul": {
+                            "nome": "Erceg",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ERCEG_STEVE_03-29.png?itok=hu83tvMW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Smith vs Kazama",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Smith",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/SMITH_ELIJAH_02-15.png?itok=C6RwRAuf"
+                        },
+                        "canto_azul": {
+                            "nome": "Kazama",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-08/KAZAMA_TOSHIOMI_08-10.png?itok=aoMNzlbm"
+                        }
+                    }
+                },
+                {
+                    "luta": "Johns vs Matsumoto",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Johns",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/JOHNS_MILES_12-14.png?itok=XF3-CgYW"
+                        },
+                        "canto_azul": {
+                            "nome": "Matsumoto",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/MATSUMOTO_JEAN_02-22.png?itok=Rc2axy0j"
+                        }
+                    }
+                },
+                {
+                    "luta": "Fernandes vs Stoliarenko",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Fernandes",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-11/FERNANDES_GABRIELLA_11-23.png?itok=EyiFdVBK"
+                        },
+                        "canto_azul": {
+                            "nome": "Stoliarenko",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/STOLIARENKO_JULIJA_02-03.png?itok=eHCxFBvc"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC 319",
+            "subtitulo_evento": "Du Plessis vs Chimaev",
+            "link_evento": "https://www.ufc.com.br/event/ufc-319",
+            "data": "17.08",
+            "hora": "02:00",
+            "timestamp_card_principal": "1755396000",
+            "local": {
+                "arena": "United Center",
+                "localidade": "Chicago",
+                "pais": "United States"
+            },
+            "luta_principal": {
+                "luta": "Du Plessis vs Chimaev",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Du Plessis",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/DU_PLESSIS_DRICUS_BELT_02-08.png?itok=bfl0ShH8"
+                    },
+                    "canto_azul": {
+                        "nome": "Chimaev",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/CHIMAEV_KHAMZAT_10-26.png?itok=p4oARXQp"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Andrade vs Godinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Andrade",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/ANDRADE_JESSICA_05-10.png?itok=MQKwrkao"
+                        },
+                        "canto_azul": {
+                            "nome": "Godinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/GODINEZ_LOOPY_08-03.png?itok=NY2IvUyx"
+                        }
+                    }
+                },
+                {
+                    "luta": "Du Plessis vs Chimaev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Du Plessis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/DU_PLESSIS_DRICUS_BELT_02-08.png?itok=bfl0ShH8"
+                        },
+                        "canto_azul": {
+                            "nome": "Chimaev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/CHIMAEV_KHAMZAT_10-26.png?itok=p4oARXQp"
+                        }
+                    }
+                },
+                {
+                    "luta": "Cannonier vs Page",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Cannonier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CANNONIER_JARED_02-15.png?itok=r_tSis3j"
+                        },
+                        "canto_azul": {
+                            "nome": "Page",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-03/PAGE_MICHAEL_03-09.png?itok=hgqLVbU_"
+                        }
+                    }
+                },
+                {
+                    "luta": "Meerschaert vs Oleksiejczuk",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Meerschaert",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MEERSCHAERT_GERALD_04-05.png?itok=nxfNCxlB"
+                        },
+                        "canto_azul": {
+                            "nome": "Oleksiejczuk",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/OLEKSIEJCZUK_MICHAL_04-12.png?itok=ysAN0k6m"
+                        }
+                    }
+                },
+                {
+                    "luta": "Barboza vs Klose",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Barboza",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/BARBOZA_EDSON_05-18.png?itok=2P6kfUnJ"
+                        },
+                        "canto_azul": {
+                            "nome": "Klose",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/KLOSE_DRAKKAR_12-14.png?itok=n9Fpr3He"
+                        }
+                    }
+                },
+                {
+                    "luta": "Green vs Ferreira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Green",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GREEN_KING_03-08.png?itok=zi3hAzlu"
+                        },
+                        "canto_azul": {
+                            "nome": "Ferreira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/4/FERREIRA_DIEGO_01-18.png?itok=wdZrj9-F"
+                        }
+                    }
+                },
+                {
+                    "luta": "Silva vs Aldrich",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Silva",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/SILVA_KARINE_11-16.png?itok=h-ZPh41D"
+                        },
+                        "canto_azul": {
+                            "nome": "Aldrich",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALDRICH_JJ_03-01.png?itok=IlgyTbr2"
+                        }
+                    }
+                },
+                {
+                    "luta": "Battle vs Ruziboev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Battle",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/BATTLE_BRYAN_12-07.png?itok=0uJAaXeI"
+                        },
+                        "canto_azul": {
+                            "nome": "Ruziboev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/RUZIBOEV_NURSULTON_05-17.png?itok=ovgH2sCp"
+                        }
+                    }
+                },
+                {
+                    "luta": "Elliott vs Asakura",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Elliott",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ELLIOTT_TIM_12-09.png?itok=bBm2YnHW"
+                        },
+                        "canto_azul": {
+                            "nome": "Asakura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ASAKURA_KAI_12-07.png?itok=D21BGBZW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Hooper vs Hernandez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Hooper",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/HOOPER_CHASE_04-12.png?itok=ZwcbMlTX"
+                        },
+                        "canto_azul": {
+                            "nome": "Hernandez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/HERNANDEZ_ALEXANDER_03-15.png?itok=CYKgu9oR"
+                        }
+                    }
+                },
+                {
+                    "luta": "Andrade vs Godinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Andrade",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/ANDRADE_JESSICA_05-10.png?itok=MQKwrkao"
+                        },
+                        "canto_azul": {
+                            "nome": "Godinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/GODINEZ_LOOPY_08-03.png?itok=NY2IvUyx"
+                        }
+                    }
+                },
+                {
+                    "luta": "Du Plessis vs Chimaev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Du Plessis",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/DU_PLESSIS_DRICUS_BELT_02-08.png?itok=bfl0ShH8"
+                        },
+                        "canto_azul": {
+                            "nome": "Chimaev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/CHIMAEV_KHAMZAT_10-26.png?itok=p4oARXQp"
+                        }
+                    }
+                },
+                {
+                    "luta": "Cannonier vs Page",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Cannonier",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CANNONIER_JARED_02-15.png?itok=r_tSis3j"
+                        },
+                        "canto_azul": {
+                            "nome": "Page",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-03/PAGE_MICHAEL_03-09.png?itok=hgqLVbU_"
+                        }
+                    }
+                },
+                {
+                    "luta": "Meerschaert vs Oleksiejczuk",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Meerschaert",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MEERSCHAERT_GERALD_04-05.png?itok=nxfNCxlB"
+                        },
+                        "canto_azul": {
+                            "nome": "Oleksiejczuk",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/OLEKSIEJCZUK_MICHAL_04-12.png?itok=ysAN0k6m"
+                        }
+                    }
+                },
+                {
+                    "luta": "Barboza vs Klose",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Barboza",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/BARBOZA_EDSON_05-18.png?itok=2P6kfUnJ"
+                        },
+                        "canto_azul": {
+                            "nome": "Klose",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/KLOSE_DRAKKAR_12-14.png?itok=n9Fpr3He"
+                        }
+                    }
+                },
+                {
+                    "luta": "Green vs Ferreira",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Green",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GREEN_KING_03-08.png?itok=zi3hAzlu"
+                        },
+                        "canto_azul": {
+                            "nome": "Ferreira",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/4/FERREIRA_DIEGO_01-18.png?itok=wdZrj9-F"
+                        }
+                    }
+                },
+                {
+                    "luta": "Silva vs Aldrich",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Silva",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/SILVA_KARINE_11-16.png?itok=h-ZPh41D"
+                        },
+                        "canto_azul": {
+                            "nome": "Aldrich",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/ALDRICH_JJ_03-01.png?itok=IlgyTbr2"
+                        }
+                    }
+                },
+                {
+                    "luta": "Battle vs Ruziboev",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Battle",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-12/BATTLE_BRYAN_12-07.png?itok=0uJAaXeI"
+                        },
+                        "canto_azul": {
+                            "nome": "Ruziboev",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/RUZIBOEV_NURSULTON_05-17.png?itok=ovgH2sCp"
+                        }
+                    }
+                },
+                {
+                    "luta": "Elliott vs Asakura",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Elliott",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ELLIOTT_TIM_12-09.png?itok=bBm2YnHW"
+                        },
+                        "canto_azul": {
+                            "nome": "Asakura",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ASAKURA_KAI_12-07.png?itok=D21BGBZW"
+                        }
+                    }
+                },
+                {
+                    "luta": "Hooper vs Hernandez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Hooper",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/HOOPER_CHASE_04-12.png?itok=ZwcbMlTX"
+                        },
+                        "canto_azul": {
+                            "nome": "Hernandez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/HERNANDEZ_ALEXANDER_03-15.png?itok=CYKgu9oR"
+                        }
+                    }
+                },
+                {
+                    "luta": "Andrade vs Godinez",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Andrade",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/ANDRADE_JESSICA_05-10.png?itok=MQKwrkao"
+                        },
+                        "canto_azul": {
+                            "nome": "Godinez",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/GODINEZ_LOOPY_08-03.png?itok=NY2IvUyx"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        },
+        {
+            "titulo_evento": "UFC Fight Night",
+            "subtitulo_evento": "Walker vs Mingyang",
+            "link_evento": "https://www.ufc.com.br/event/ufc-fight-night-august-23-2025",
+            "data": "23.08",
+            "hora": "11:00",
+            "timestamp_card_principal": "1755946800",
+            "local": {
+                "arena": "Shanghai Indoor Stadium",
+                "localidade": "Xuhui District",
+                "pais": "China"
+            },
+            "luta_principal": {
+                "luta": "Walker vs Mingyang",
+                "lutadores": {
+                    "canto_vermelho": {
+                        "nome": "Walker",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WALKER_JOHNNY_06-22.png?itok=LDbyESws"
+                    },
+                    "canto_azul": {
+                        "nome": "Mingyang",
+                        "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MINGYANG_ZHANG_04-26.png?itok=M8eeXqu7"
+                    }
+                }
+            },
+            "card_principal": [
+                {
+                    "luta": "Ortega vs Sterling",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Ortega",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ORTEGA_BRIAN_09-14.png?itok=D5PoGbeh"
+                        },
+                        "canto_azul": {
+                            "nome": "Sterling",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/STERLING_ALJAMAIN_12-07.png?itok=Qzb8DyId"
+                        }
+                    }
+                },
+                {
+                    "luta": "Walker vs Mingyang",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Walker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WALKER_JOHNNY_06-22.png?itok=LDbyESws"
+                        },
+                        "canto_azul": {
+                            "nome": "Mingyang",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MINGYANG_ZHANG_04-26.png?itok=M8eeXqu7"
+                        }
+                    }
+                },
+                {
+                    "luta": "Ortega vs Sterling",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Ortega",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ORTEGA_BRIAN_09-14.png?itok=D5PoGbeh"
+                        },
+                        "canto_azul": {
+                            "nome": "Sterling",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/STERLING_ALJAMAIN_12-07.png?itok=Qzb8DyId"
+                        }
+                    }
+                },
+                {
+                    "luta": "Walker vs Mingyang",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Walker",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/WALKER_JOHNNY_06-22.png?itok=LDbyESws"
+                        },
+                        "canto_azul": {
+                            "nome": "Mingyang",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/MINGYANG_ZHANG_04-26.png?itok=M8eeXqu7"
+                        }
+                    }
+                },
+                {
+                    "luta": "Ortega vs Sterling",
+                    "lutadores": {
+                        "canto_vermelho": {
+                            "nome": "Ortega",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ORTEGA_BRIAN_09-14.png?itok=D5PoGbeh"
+                        },
+                        "canto_azul": {
+                            "nome": "Sterling",
+                            "imagem": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/STERLING_ALJAMAIN_12-07.png?itok=Qzb8DyId"
+                        }
+                    }
+                }
+            ],
+            "card_preliminar": []
+        }
+    ]
+}
